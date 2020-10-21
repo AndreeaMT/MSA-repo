@@ -1,2 +1,2 @@
 # Parasites' Map
-project for Mobile Systems Applications laboratory, 4th year
+project for Mobile Systems Applications laboratory, 4th year of Uni
