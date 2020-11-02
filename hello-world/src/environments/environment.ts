@@ -3,7 +3,15 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+
+  firebaseConfig: {
+    //your firebase config
+  },
+
+  mapbox: {
+    accessToken: 'pk.eyJ1IjoiYW5kcmVlYWFuZHJlZXNjdSIsImEiOiJja2dxbHpkOHgwNWlmMnJtZnZhOTkxbmVjIn0.tj__Y5aYxguOzCoGh-UR3A'
+  }
 };
 
 /*
