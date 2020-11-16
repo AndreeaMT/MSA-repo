@@ -17,12 +17,19 @@ firebaseConfig: {
   mapbox: {
     accessToken: 'pk.eyJ1IjoiYW5kcmVlYWFuZHJlZXNjdSIsImEiOiJja2dxbHpkOHgwNWlmMnJtZnZhOTkxbmVjIn0.tj__Y5aYxguOzCoGh-UR3A'
   }
- 
 
-running Angular project:
-    ng serve --open
-or simply:
-    ng serve
     
-Angular project at: 
-    http://localhost:4200/
+for django installation:
+    https://www.django-rest-framework.org/tutorial/quickstart/
+    https://youtu.be/z_H-oxQVsPw
+  
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Running Angular: ng serve
+                 server listening: http://localhost:4200/
+        django: python manage.py runserver
+                 server listening: http://127.0.0.1:8000/
+* * * * * * * * * * * * * * * * * * * * * * * * * * * *   
+
+installing django cores:
+    pip install django-cors-headers              
+                 
